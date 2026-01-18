@@ -45,7 +45,7 @@ Data Collection → Data Preprocessing → Data Balancing → Sampling Technique
 - Random Forest and Logistic Regression perform well on balanced data  
 - The best sampling technique depends on the model used
 
-  ## 5. Conclusion
+## 5. Conclusion
 
 This project shows that sampling techniques play an important role in handling imbalanced datasets.  
 Choosing the right sampling method can improve model accuracy and reliability.
